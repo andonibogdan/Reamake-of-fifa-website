@@ -1,0 +1,52 @@
+.main {
+    margin-top: 110px;
+}
+
+.top-header {
+  background: #1c1f26;
+}
+
+.icon-btn {
+  color: rgba(245, 245, 245, 0.584);
+  border: none;
+}
+
+.icon-btn:hover {
+  color: white;
+}
+
+.header-logo {
+  width: 100px;
+}
+
+.header-btn {
+  background: rgb(255, 128, 0);
+}
+
+.fig {
+  position: relative;
+}
+
+.figcaption1 {
+  position: absolute;
+  top: 20%;
+  left: 50%;
+}
+
+.news {
+  background-image: url(https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/shared-assets/common/f23-features-page-bg-xl-l-m.jpg.adapt.320w.jpg);
+  background-size: cover;
+}
+
+
+.cross-play-title {
+    margin-top: 6rem;
+}
+
+.what-title {
+    margin-top: 6rem;
+}
+
+footer {
+  background: #f8f9fa;
+}
